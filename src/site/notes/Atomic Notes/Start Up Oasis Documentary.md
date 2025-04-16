@@ -3,7 +3,7 @@
 ---
 
 ![fabio-oyXis2kALVg-unsplash.jpg](/img/user/Files/fabio-oyXis2kALVg-unsplash.jpg)
-# Startup Oasis Documentary Project 
+# Documentary Project 
 ## $450
 
 - Half Day Shoot
