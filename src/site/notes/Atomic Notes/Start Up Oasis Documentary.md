@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atomic-notes/start-up-oasis-documentary/"}
+{"dg-publish":true,"dg-path":"Shared/Start Up Oasis Documentary.md","permalink":"/shared/start-up-oasis-documentary/"}
 ---
 
 # Startup Oasis Documentary Project 

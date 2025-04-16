@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atomic-notes/atlanta-film-resources/"}
+{"dg-publish":true,"dg-path":"Shared/Atlanta Film Resources.md","permalink":"/shared/atlanta-film-resources/"}
 ---
 
 # Strategy
