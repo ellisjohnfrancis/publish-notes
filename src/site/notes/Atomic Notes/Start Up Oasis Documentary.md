@@ -2,8 +2,7 @@
 {"dg-publish":true,"permalink":"/atomic-notes/start-up-oasis-documentary/"}
 ---
 
-
-# Startup Oasis Documentary 
+# Startup Oasis Documentary Project 
 ## $450
 
 - Half Day Shoot
