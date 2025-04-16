@@ -13,5 +13,3 @@
 ## $1000
 - Full Day Shoot
 - 
-
-![[CP575Notice_1691445288207.pdf]]
